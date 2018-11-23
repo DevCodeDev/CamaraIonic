@@ -1,0 +1,8 @@
+{
+  "name": "devdacticQRCodes",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "f8524e2b"
+}
